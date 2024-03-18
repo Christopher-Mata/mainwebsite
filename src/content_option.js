@@ -86,17 +86,17 @@ const dataportfolio = [{
     {
         img: "https://repository-images.githubusercontent.com/78664391/f7e46780-6bf6-11eb-999f-8212c69d76bc",
         description: "This React Website - A website built using React and Tailwind CSS.",
-        link: "#",
+        link: "https://christopher-mata.github.io/mainwebsite/",
     },
     {
         img: "https://asset.library.wisc.edu/1711.dl/YRUC4XB5JXC6U8F/M/h1380-4a397.jpg",
-        description: "TPA Parkside App - A mobile application to be the hub of all things Parkside.",
+        description: "The Parkside App - A mobile application to be the hub of all things Parkside.",
         link: "https://play.google.com/store/search?q=UW%20parkside%20app&c=apps&hl=en_US&gl=US",
     },
     {
         img: "https://assets-global.website-files.com/631f769e18a16a073b671850/64b59b0022ae9509d7377c54_LLM_for_life_science_2x3_grayscale.png",
         description: "ChatBot - A LLM Chatbot that answers questions about UW Parkside.",
-        link: "#",
+        link: "https://huggingface.co/ByteSized/Mistral-7B-OpenOrca-UWPInstruct/tree/main",
     },
 ];
 
