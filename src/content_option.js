@@ -66,11 +66,11 @@ const skills = [{
 
 const services = [{
         title: "Application Development",
-        description: "Building Beautiful and Scalable Applications using the latest technologies and frameworks.",
+        description: "Building Beautiful and Scalable Applications using the latest technologies and frameworks. Application include IOS, Android, and Web.",
     },
     {
-        title: "App Development",
-        description: "Develpment of mobile applications for Android and IOS using the latest technologies and frameworks.",
+        title: "AI, RESTful API, and Server Development",
+        description: "Develpment of Web applications that utilize custom servers and RESTful APIs to provide a seamless experience. Such web applications include Chatbots (embedded within the browser), and AI applications.",
     },
     {
         title: "Conceptualization and Implementation",
