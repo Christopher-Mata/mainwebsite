@@ -20,7 +20,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "Abit about my self",
+    title: "A bit about my self",
     aboutme: "I'm a passionate computer scientist and software engineer with a deep love for all things tech." +
     " My journey in the world of technology began as a curious teenager who couldn't resist taking apart old computers to understand how they worked." + 
     " Since then, I've embarked on an exciting and ever-evolving adventure in the realm of software development.",
@@ -81,7 +81,7 @@ const services = [{
 const dataportfolio = [{
         img: "https://cdn.pixabay.com/photo/2022/12/01/04/42/man-7628305_1280.jpg",
         description: "Ambiente - A discord bot that plays 24/7 radio stations based on the user's mood.",
-        link: "https://discord.com/oauth2/authorize?client_id=1028285260951195668&permissions=8&scope=bot",
+        link: "https://discord.com/oauth2/authorize?client_id=1058798982844907670&permissions=18307603754833&scope=bot",
     },
     {
         img: "https://repository-images.githubusercontent.com/78664391/f7e46780-6bf6-11eb-999f-8212c69d76bc",
