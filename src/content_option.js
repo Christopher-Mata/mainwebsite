@@ -15,7 +15,7 @@ const introdata = {
     " I specialize in solving conceptual problems, quantifying them and translating them into code." + 
     " Cool right! If you want to find out more on what I am working on, just click the portfolio button." + 
     " I am passionate about tea, keyboards, modifying cars, and philosophy!",
-    your_img_url: "https://cdn.discordapp.com/attachments/1075239734709858326/1227042002961698917/299022044_1930509383799509_1006682292393623283_n.png?ex=66322baa&is=6630da2a&hm=1442273f023a750432e350aa7d39cafdbebc6f1822ebec129da6677da3e2b65a&",
+    your_img_url: "https://i.postimg.cc/mrM3431Q/regular-me.jpg",
     // Original Image Link https://images.unsplash.com/photo-1514790193030-c89d266d5a9d
 };
 
