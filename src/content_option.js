@@ -79,17 +79,17 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://cdn.pixabay.com/photo/2022/12/01/04/42/man-7628305_1280.jpg",
+        img: "https://i.ibb.co/C1Cs0WX/Screenshot-2024-07-12-133630.png",
         description: "Ambiente - A discord bot that plays 24/7 radio stations based on the user's mood.",
         link: "https://discord.com/oauth2/authorize?client_id=1058798982844907670&permissions=18307603754833&scope=bot",
     },
     {
-        img: "https://repository-images.githubusercontent.com/78664391/f7e46780-6bf6-11eb-999f-8212c69d76bc",
+        img: "https://i.ibb.co/0Cj4y79/Screenshot-2024-07-12-134403.png",
         description: "This React Website - A website built using React and Tailwind CSS.",
         link: "https://christopher-mata.github.io/mainwebsite/",
     },
     {
-        img: "https://asset.library.wisc.edu/1711.dl/YRUC4XB5JXC6U8F/M/h1380-4a397.jpg",
+        img: "https://i.ibb.co/X20w1dD/black-android-logo-gpsfc2n6lg19kn9p.jpg",
         description: "The Parkside App - A mobile application to be the hub of all things Parkside.",
         link: "https://play.google.com/store/search?q=UW%20parkside%20app&c=apps&hl=en_US&gl=US",
     },
