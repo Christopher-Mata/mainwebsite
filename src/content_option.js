@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m Christopher Mata",
     animated: {
-        first: "I love coding!",
-        second: "I code cool projects!",
-        third: "I develop anything and everything!",
+        first: "I love developing!",
+        second: "I make interesting projects!",
+        third: "I am living life to the fullest!",
     },
     description: "Hello! I am a Mexican Software Engineer, but you already knew that." + 
     " I specialize in solving conceptual problems, quantifying them and translating them into code." + 
@@ -26,19 +26,19 @@ const dataabout = {
     " Since then, I've embarked on an exciting and ever-evolving adventure in the realm of software development.",
 };
 const worktimeline = [{
-        jobtitle: "AI Pre-Internship",
+        jobtitle: "AI Internship",
         where: "MKE Tech Hub Coalition",
         date: "2020",
     },
     {
         jobtitle: "Software Engineer",
         where: "App Factory",
-        date: "2021-2022",
+        date: "2021-2023",
     },
     {
         jobtitle: "Math Tutor",
         where: "PARC",
-        date: "2021-2023",
+        date: "2021-2024",
     },
 ];
 
@@ -47,25 +47,25 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Python",
-        value: 85,
+        name: "Web Development",
+        value: 95,
     },
     {
-        name: "Javascript",
+        name: "Full Stack Development",
         value: 80,
     },
     {
-        name: "C++",
-        value: 60,
+        name: "Algorithm Optimization",
+        value: 80,
     },
     {
-        name: "React",
+        name: "Design Patterns",
         value: 85,
     },
 ];
 
 const services = [{
-        title: "Application Development",
+        title: "Application and Web Development",
         description: "Building Beautiful and Scalable Applications using the latest technologies and frameworks. Application include IOS, Android, and Web.",
     },
     {
@@ -74,7 +74,7 @@ const services = [{
     },
     {
         title: "Conceptualization and Implementation",
-        description: "bringing your ideas to life by conceptualizing and implementing them.",
+        description: "Bringing ideas to life while making maintainable, scalable, and elegant code. Utilizing design patterns such as SOLID!",
     },
 ];
 
@@ -91,12 +91,12 @@ const dataportfolio = [{
     {
         img: "https://i.ibb.co/X20w1dD/black-android-logo-gpsfc2n6lg19kn9p.jpg",
         description: "The Parkside App - A mobile application to be the hub of all things Parkside.",
-        link: "https://play.google.com/store/search?q=UW%20parkside%20app&c=apps&hl=en_US&gl=US",
+        link: "https://apps.apple.com/us/app/uw-parkside/id1437422373",
     },
     {
         img: "https://assets-global.website-files.com/631f769e18a16a073b671850/64b59b0022ae9509d7377c54_LLM_for_life_science_2x3_grayscale.png",
         description: "ChatBot - A LLM Chatbot that answers questions about UW Parkside.",
-        link: "https://huggingface.co/ByteSized/Mistral-7B-OpenOrca-UWPInstruct/tree/main",
+        link: "https://github.com/Christopher-Mata/UWP-Chatbot",
     },
 ];
 
